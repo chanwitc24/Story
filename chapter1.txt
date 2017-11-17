@@ -1,0 +1,6 @@
+############
+cd Desktop
+cd Story
+git init
+ls -a
+git status
